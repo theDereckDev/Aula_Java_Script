@@ -1,0 +1,7 @@
+git init = 'iniciar repositorio local'
+git config --global user.name 'nome_usuario' = 'configurar autor do commit'
+git config --global user.email 'email_repositorio_remoto' = 'configurar autor do commit'
+git remote add origin 'url_repositorio' = 'linkar com o repositorio remoto'
+git add . = 'adicionar arquivos para o commit'
+git status = 'mostra os arquivos que foram adicionados para commit ou não'
+git commit -m 'mensagem do commit' = 'commitar arquivos alterados ou criados'
