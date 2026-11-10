@@ -5,3 +5,7 @@ git remote add origin 'url_repositorio' = 'linkar com o repositorio remoto'
 git add . = 'adicionar arquivos para o commit'
 git status = 'mostra os arquivos que foram adicionados para commit ou não'
 git commit -m 'mensagem do commit' = 'commitar arquivos alterados ou criados'
+git branch ='lista as branchs'
+git Branch 'nome_branch' 'nome_branch_baseada' = 'cria uma branch baseada no segundo parametro'
+git checkout 'nome_branch' = 'mudo para outra branch'
+git checkout -b 'nome_branch' 'nome_branch' = cria uma branch e já muda para ela
